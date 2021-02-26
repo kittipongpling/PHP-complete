@@ -40,7 +40,7 @@ CREATE TABLE `customers` (
 --
 
 INSERT INTO `customers` (`id`, `name`, `email`, `mobile`) VALUES
-(2, 'sathaporn', 'sathaporn.ma@rmuti.ac.th', '0638096597');
+(2, 'kittipong', 'kittipong@gmail.com', '0848283681');
 
 --
 -- Indexes for dumped tables
